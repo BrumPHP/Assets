@@ -8,7 +8,7 @@ To make clear what is expected: all attendees, speaker(s), organizers and volunt
 
 ## TL;DR
 
-We want people to feel safe. Please don't contest or feel the need to be difficult should you be offically cautioned/removed.
+We want people to feel safe. Please don't contest or feel the need to be difficult should you be officially cautioned/removed.
 
 ## The Short Version
 
