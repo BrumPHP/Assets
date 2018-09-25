@@ -1,36 +1,34 @@
-# Code of Conduct for Hackference 2018
+# Code of Conduct for brumPHP
 
-Hackference is a conference and hackathon based around learning and inspiring developers to hack.
+brumPHP is a hosted monthly event based around PHP and the wider tech community in Birmingham.
 
-We value the participation of each member of the community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees of Hackference 2018 are expected to show respect and courtesy to other people throughout the event. This applies to everyone whether or not they are officially part of the Hackference 2018 event.
+We value the participation of each member of the community and want all attendees at each event to have an enjoyable experience. Accordingly, all attendees of our events are expected to show respect and courtesy to other people throughout the event.
 
-To make clear what is expected: all delegates/attendees, speakers, exhibitors, organizers and volunteers at any Hackference event are required to conform to the following Code of Conduct. Organisers will enforce this code throughout the event and you will be reminded of it at the start of the event and any subsequent days that this event occurs over.
+To make clear what is expected: all attendees, speaker(s), organizers and volunteers at any brumPHP event are required to conform to the following Code of Conduct. Organisers will enforce this code throughout the event and you will be reminded of it at the start of the event and any subsequent days that this event occurs over.
 
 ## TL;DR
 
-Don't be a jerk. And if someone asks you to stop, it's a good enough reason for you to do so.
-
-Also, this document may evolve between time of reading and the event so please re-familiarise yourself before the event. If you have any suggestions please make an issue here [https://github.com/hackference/code-of-conduct](https://github.com/hackference/code-of-conduct).
+We want people to feel safe. Please don't contest or feel the need to be difficult should you be offically cautioned/removed.
 
 ## The Short Version
 
-* Hackference 2018 is dedicated to providing a harassment-free conference experience for everyone, regardless of any personal characteristic including, but not limited to: gender, gender identity, gender expression, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of Hackference 2018 participants in any form.
+* brumPHP events are dedicated to providing a harassment-free event for everyone each month, regardless of any personal characteristic including, but not limited to: gender, gender identity, gender expression, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of participants in any form. The tech industry currently has some old stereotypes about some of these things, and we do not support them.
 
 * All communication should be appropriate for a professional audience including people of many different backgrounds. Sexual language and imagery is _not appropriate_ for any venue, including talks and socialising.
 
 * Be kind to others. Do not insult or put down other people. Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate for this conference.
 
-* Attendees violating these rules may be asked to leave the event without a refund at the sole discretion of the organisers.
+* Attendees violating these rules may be asked to leave the event with a caution at the sole discretion of the organisers. A second violation of these rules will result in a ban from all futher brumPHP events.
 
-In addition to these agreements, Hackference 2018 wants to be a friendly and welcoming place. We encourage all our attendees to act in the following manner:
+In addition to these agreements, brumPHP wants to be a welcoming event each month. We encourage all our attendees to act in the following manner:
 
 * Be friendly and patient.
-* Be welcoming towards everyone. This includes new attendees at Hackference 2018 and especially those who are still learning.
+* Be welcoming towards everyone. This includes new attendees and especially those who are still learning.
 * Be considerate of others and treat them as you wish to be treated.
 
 In short: _be excellent towards each other._
 
-Thank you for helping make this a welcoming, friendly conference for all.
+Thanks in advance to our attendees for each event, for knowing our rules and being lovely.
 
 ## The Longer Version
 
@@ -38,23 +36,19 @@ Harassment includes: offensive verbal comments related to gender, gender identit
 
 Participants asked to stop any harassing behavior are expected to comply immediately.
 
-Exhibitors, sponsors or vendor booths, or similar entities/activities associated with the conference in any way, are also subject to the anti-harassment policy. In particular and if applicable, any exhibitors at the event should not use sexualized images, activities, or other material. Booth staff (including volunteers) should not wear, give away or otherwise use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment while at Hackference 2018.
+Be careful in the words that you choose. Remember that sexist, racist, and other exclusionary jokes can be offensive to those around you. Excessive swearing and offensive jokes are not appropriate for our events.
 
-Be careful in the words that you choose. Remember that sexist, racist, and other exclusionary jokes can be offensive to those around you. Excessive swearing and offensive jokes are not appropriate for Hackference 2018.
-
-If a participant engages in behavior that violates this code of conduct, the conference organisers may take any action they deem appropriate, including warning the offender or expulsion from the conference with no refund.
+If a participant engages in behavior that violates this code of conduct, the organisers may take any action they deem appropriate, including warning the offender or a ban from all further events.
 
 ## Contact Information
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of Hackference 2018 staff or a volunteer. Hackference 2018 staff will be pointed out to you at the beginning of the event.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact an organizer.
 
-If the matter is especially urgent, please call or contact any of these individuals:
+The organisers are:
+James (Jim) Seconde
+Matt Rose
 
-* Mike Elsmore at +44 7816961602 or mike@hackference.co.uk
-
-An anonymous number will be available closer to the event.
-
-Hackference 2018 staff and volunteers will be happy to help participants contact venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
+An organiser will always be available at an event.
 
 ## Procedure for Handling Harassment
 
@@ -62,9 +56,7 @@ If you feel like you are being harassed or feel uncomfortable and would like to 
 
 (This procedure has been adopted from the Ada Initiative's guide titled "[Conference anti-harassment/Responding to Reports](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports)".)
 
-1\. Keep in mind that all Hackference 2018 staff and volunteers will be pointed out at the beginning of the event and should be in identifying uniform. The staff will also be prepared to handle the incident. All of our staff are informed of the this code of conduct policy and guide for handling harassment at the conference.
-
-2\. Report the harassment incident (preferably in writing) to a staff member. All reports are confidential. Please do not disclose public information about the incident until the staff have had sufficient time in which to address the situation. This is as much for your safety and protection as it is the other attendees'.
+Report the harassment incident (preferably in writing) to a staff member. All reports are confidential. Please do not disclose public information about the incident until the organisers have had sufficient time in which to address the situation. This is as much for your safety and protection as it is the other attendees'.
 
 When reporting the event to staff, try to gather as much information as available but do not interview people about the incident. Staff will assist you in writing the report/collecting information.
 
@@ -76,17 +68,11 @@ The important information consists of:
 * The circumstances surrounding the incident.
 * Other people involved in the incident.
 
-The staff are well informed on how to deal with the incident and how to further proceed with the situation.
+If everyone is presently physically safe, involve law enforcement or security only at a victim's request. If you do feel your safety is in jeopardy please do not hesitate to contact local law enforcement by dialing +44 121 626 5000. If you do not have a mobile phone, you can simply ask an organiser.
 
-3\. If everyone is presently physically safe, involve law enforcement or security only at a victim's request. If you do feel your safety is in jeopardy please do not hesitate to contact local law enforcement by dialing +44 121 626 5000. If you do not have a cell phone, you can simply ask a staff member.
-
-**Note**: Incidents that violate the Code of Conduct are extremely damaging to the community, and they will not be tolerated. The silver lining is that, in many cases, these incidents present a chance for the offenders, and the community at large, to grow, learn, and become better. Hackference staff request that they be your first resource when reporting a Hackference-related incident, so that they may enforce the Code of Conduct and take quick action toward a resolution.
-
-If at all possible, all reports should be made directly to the Hackference organisers mentioned above.
+**Note**: Incidents that violate the Code of Conduct are extremely damaging to the community, and they will not be tolerated. The silver lining is that, in many cases, these incidents present a chance for the offenders, and the community at large, to grow, learn, and become better. brumPHP organisers request that they be your first resource when reporting an incident, so that they may enforce the Code of Conduct and take quick action toward a resolution.
 
 ## Staff Procedure for incident handling
-
-All staff for Hackference 2018 will have been briefed on the following procedures for helping you to help with your safety.
 
 (This procedure has been adopted from the Ada Initiative's guide titled "[Conference anti-harassment/Responding to Reports](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports)".)
 
@@ -100,7 +86,7 @@ Try to get as much of the incident in writing from the reporter. If you cannot, 
 * The circumstances surrounding the incident.
 * Other people involved in the incident.
 
-Prepare an initial response to the incident. This initial response is very important and will set the tone for Hackference 2018. Depending on the severity/details of the incident, please follow these guidelines:
+Prepare an initial response to the incident. This initial response is very important and will set the tone for events hosted by brumPHP. Depending on the severity/details of the incident, please follow these guidelines:
 
 * If there is any general threat to attendees, or the safety of anyone including staff is in doubt, summon security or police.
 * Offer the victim a private place to sit.
@@ -151,8 +137,8 @@ If some attendees were angered by the incident, it is best to apologize to them 
 
 ## License
 
-This Code of Conduct was forked from the [Pycon US policy](https://github.com/python/pycon-code-of-conduct), which was originally forked from the [Geek Feminism wiki, created by the Ada Initiate and other volunteers.](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy) which is under a [Creative Commons Zero](http://creativecommons.org/licenses/by/3.0/) license.
+This Code of Conduct was forked from the [Hackference 2018](https://github.com/hackference/code-of-conduct/blob/master/code-of-conduct.md) Code of Conduct, which was forked from the [Pycon US policy](https://github.com/python/pycon-code-of-conduct), which was originally forked from the [Geek Feminism wiki, created by the Ada Initiate and other volunteers.](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy) which is under a [Creative Commons Zero](http://creativecommons.org/licenses/by/3.0/) license.
 
 ## Credits
 
-Thank you to [Paul Hallett](http://phalt.co/) and [Orlando Kalossakas](https://twitter.com/orliesaurus) for creating the [template](https://github.com/phalt/code-of-conduct) .
+Thanks to [Mike Elsmore](https://elsmore.me/) for allow us to use and edit the Hackference CoC, which in turn thanks [Paul Hallett](http://phalt.co/) and [Orlando Kalossakas](https://twitter.com/orliesaurus) for creating the [template](https://github.com/phalt/code-of-conduct) .
