@@ -16,7 +16,7 @@ We want people to feel safe. Please don't contest or feel the need to be difficu
 
 * All communication should be appropriate for a professional audience including people of many different backgrounds. Sexual language and imagery is _not appropriate_ for any venue, including talks and socialising.
 
-* Be kind to others. Do not insult or put down other people. Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate for this conference.
+* Be kind to others. Do not insult or put down other people. Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate at our events.
 
 * Attendees violating these rules may be asked to leave the event with a caution at the sole discretion of the organisers. A second violation of these rules will result in a ban from all futher brumPHP events.
 
